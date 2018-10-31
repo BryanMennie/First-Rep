@@ -1,0 +1,17 @@
+root@bt:/pentest/exploits/set# ./set-update
+src/payloads/set_payloads/http_shell.py
+src/payloads/set_payloads/shell.py
+src/payloads/set_payloads/shell.windows
+src/payloads/set_payloads/set_http_server.py
+src/payloads/set_payloads/persistence.py
+src/payloads/set_payloads/listener.py
+src/qrcode/qrgenerator.py
+modules/ratte_module.py
+modules/ratte_only_module.py
+set-automate
+set-proxy
+set
+set-update
+readme/LICENSE
+readme/CHANGES
+root@bt:/pentest/exploits/set# 
